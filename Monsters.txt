@@ -1,0 +1,12 @@
+Hüter der Waldes, 10, 3, 50, Hueter.gif
+Schwinge des Raa, 2, 9, 19, Schwinge.gif
+Flemmling, 1, 7, 20, Flemmling.gif
+Die Quelle, 1000, 8, 2, Quelle.gif
+Ent der Frühzeit, 20, 4, 59, Baum.gif
+Feuerzahn, 20, 5, 30, Drache.gif
+Einfacher Fisch, 2, 7, 12, FishKen.gif
+Geliebte des Todes, 2, 8, 16, Frau.gif
+Mantinae jr, 3, 4, 25, Gott.gif
+Krillin, 2, 10, 2, Ori.gif
+Graf Olaf, 3, 10, 18, Teufel.gif
+Fishitu, 30, 8, 10, Wolke.gif
